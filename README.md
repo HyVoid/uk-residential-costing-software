@@ -1,3 +1,5 @@
+[ 🇫🇷 Français ](README.fr.md) | [ 🇬🇧 English ](README.md)
+
 # UK Residential Construction Estimating Software & Builders Costing Excel Template
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
