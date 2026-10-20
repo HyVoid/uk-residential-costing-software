@@ -1,4 +1,4 @@
-[ 🇫🇷 Français ](README.fr.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Logiciel de métré et modèle de devis de construction résidentielle au Royaume-Uni (Excel)
 
@@ -246,7 +246,7 @@ Le système fonctionne à travers quatre couches fonctionnelles distinctes répa
 
 #### 2. Calculs intermédiaires du moteur (`04_Project_Estimate`)
 - `MAS-001` quantité nette calculée : $68.0 \times (1 + 0.08) = 73.44\,\text{m}^2$
-→- `MAS-001` taux de l'entreprise : main-d'œuvre 42,00 £, matériaux 48,50 £, sous-traitance 0,00 £, engins 4,50 £ $\rightarrow$ taux composite = 95,00 £/m²
+- `MAS-001` taux de l'entreprise : main-d'œuvre 42,00 £, matériaux 48,50 £, sous-traitance 0,00 £, engins 4,50 £ $\rightarrow$ taux composite = 95,00 £/m²
 - `MAS-001` coût direct de la ligne : $73.44\,\text{m}^2 \times £95.00 = £6,976.80$
 - Coûts directs agrégés du projet ($\sum \text{coût direct}$ pour tous les corps d'état) : **112 450,00 £**
 
@@ -387,4 +387,3 @@ Pour éviter l'érosion des marges côté client lors des négociations commerci
 ## Licence
 
 Ce projet est sous licence **Apache License 2.0**. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
-
