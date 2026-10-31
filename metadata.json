@@ -1,6 +1,6 @@
 {
   "name": "UK Residential Costing Engine",
-  "description": "A specialized SaaS costing engine and estimating platform for UK residential construction (£100k–£500k), featuring dynamic rate matching, full-lifecycle cost build-ups, and automated client quotation generation.",
+  "description": "Theseus Workshop - Professional UK residential construction costing engine and Bill of Quantities (BOQ) tender pricing software for £100k–£500k building projects.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

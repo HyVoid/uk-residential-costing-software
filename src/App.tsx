@@ -338,7 +338,7 @@ export default function App() {
           All storage functions of this tool are retained in your browser's localStorage. The application does not store or transmit any user data to external servers.
         </p>
         <div className="text-[11px] text-[#888888]/70 mt-1">
-          UK Residential Costing Engine • Standardized RICS & JCT Minor Works Pricing Framework
+          Theseus Workshop • UK Residential Costing Engine • Standardized RICS & JCT Minor Works Pricing Framework
         </div>
       </footer>
       </div>

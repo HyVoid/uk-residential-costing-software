@@ -157,20 +157,20 @@ export const Sidebar: React.FC<SidebarProps> = ({
       <div className="p-5 border-b border-[#E8E8E6] bg-white">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-lg bg-[#051C2C] text-white flex items-center justify-center font-serif text-xl font-bold shadow-sm shrink-0">
-              £
+            <div className="w-10 h-10 rounded-lg bg-[#051C2C] text-white flex flex-col items-center justify-center shadow-sm shrink-0">
+              <span className="font-serif text-[14px] font-bold tracking-tight leading-none text-white">TW</span>
+              <span className="text-[8px] font-mono font-semibold text-[#00C853] leading-none mt-0.5">£</span>
             </div>
-            <div className="flex flex-col">
-              <div className="flex items-center gap-1.5">
-                <span className="font-heading font-bold text-[#051C2C] text-[16px] leading-tight tracking-tight">
-                  Costing Engine
-                </span>
-                <span className="px-1.5 py-0.5 text-[9px] uppercase font-semibold text-[#2251FF] bg-[#2251FF]/10 rounded">
-                  v2.4
-                </span>
+            <div className="flex flex-col min-w-0">
+              <div className="text-[10px] font-bold uppercase tracking-wider text-[#2251FF] leading-tight flex items-center gap-1.5">
+                <span>Theseus Workshop</span>
+                <span className="px-1 py-0.2 text-[8px] font-semibold text-[#2251FF] bg-[#2251FF]/10 rounded">v2.4</span>
               </div>
-              <span className="text-[11px] text-[#888888] leading-tight truncate mt-0.5 font-medium">
-                RICS & JCT Framework
+              <div className="font-heading font-bold text-[#051C2C] text-[15px] leading-tight tracking-tight mt-0.5 truncate" title="UK Residential Costing Engine">
+                Costing Engine
+              </div>
+              <span className="text-[11px] text-[#888888] leading-tight truncate font-medium mt-0.5" title="UK Residential Construction & Tender Pricing">
+                UK Residential Construction
               </span>
             </div>
           </div>
@@ -374,7 +374,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           <span className="font-mono text-[#051C2C] font-semibold">{lastSavedFormatted}</span>
         </div>
         <div className="text-[10px] text-[#888888]/80 leading-tight">
-          Client-side persistence in browser storage.
+          © 2026 Theseus Workshop • Local browser persistence
         </div>
       </div>
     </div>
@@ -387,7 +387,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
         id="mobile-top-bar"
         className="lg:hidden sticky top-0 z-40 bg-white border-b border-[#E8E8E6] shadow-sm px-4 h-14 flex items-center justify-between select-none no-print"
       >
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2.5 min-w-0">
           <button
             type="button"
             id="btn-sidebar-mobile-toggle"
@@ -398,13 +398,18 @@ export const Sidebar: React.FC<SidebarProps> = ({
             <Menu className="w-5 h-5" />
           </button>
 
-          <div className="flex items-center gap-2">
-            <div className="w-7 h-7 rounded-md bg-[#051C2C] text-white flex items-center justify-center font-serif text-sm font-bold shadow-sm">
-              £
+          <div className="flex items-center gap-2 min-w-0">
+            <div className="w-8 h-8 rounded-md bg-[#051C2C] text-white flex flex-col items-center justify-center shadow-sm shrink-0">
+              <span className="font-serif text-[11px] font-bold leading-none">TW</span>
             </div>
-            <span className="font-heading font-bold text-[#051C2C] text-[15px]">
-              Costing Engine
-            </span>
+            <div className="flex flex-col min-w-0">
+              <span className="text-[9px] uppercase tracking-wider font-bold text-[#2251FF] leading-none">
+                Theseus Workshop
+              </span>
+              <span className="font-heading font-bold text-[#051C2C] text-[13px] leading-tight truncate">
+                UK Residential Costing Engine
+              </span>
+            </div>
           </div>
         </div>
 
