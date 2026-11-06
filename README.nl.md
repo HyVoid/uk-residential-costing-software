@@ -1,93 +1,139 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Britische bouwcalculatiesoftware voor woningbouw & Excel-sjabloon voor kostenraming voor bouwbedrijven
+# Excel-sjabloon voor kostencalculatie van Britse woningbouw, kostenberekeningsspreadsheet voor bouwbedrijven en gratis offertecalculator voor woningaanbouw
+<img width="1116" height="790" alt="image" src="https://github.com/user-attachments/assets/ef19083b-5749-48f9-a64e-ce3f13936127" />
+
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Platform](https://img.shields.io/badge/Platform-Browser%20(Free)%20%7C%20Excel%20(Paid)-emerald.svg)](#)
-[![Tool Type](https://img.shields.io/badge/Tool%20Type-Decision%20Support%20%7C%20Costing%20Engine-orange.svg)](#)
+[![Platform](https://img.shields.io/badge/Platform-Free%20Web%20Calculator%20%7C%20Plug--and--Play%20Excel-emerald.svg)](#)
+[![Audience](https://img.shields.io/badge/Built%20For-UK%20Builders%2C%20Trades%20%26%20First--Time%20Estimators-orange.svg)](#)
 
-**Een geavanceerd Britisch sjabloon voor kostenraming van woningbouw en software voor kostenraming van bouwprojecten, ontworpen om gemeten hoeveelheden uit architectuurtekeningen in seconden om te zetten in aanbiederspecifieke offertebudgetten, interne commerciële ondergrenzen en heldere klantoffertes. Beschikbaar als gratis browsergebaseerd tool voor bouwcalculatie en als volledig ontgrendeld professioneel Excel-werkboek voor kostenraming voor bouwbedrijven, met 30 dagen geld-teruggarantie.**
+**Een plug-and-play Excel-sjabloon voor kostencalculatie in de Britse woningbouw, een spreadsheet voor kostencalculatie per bouwproject en een gratis online calculator voor bouwoffertes. Gebouwd voor binnenlandse bouwbedrijven, gespecialiseerde onderaannemers, projectontwikkelaars en beginners die maten uit bouwtekeningen binnen 1 minuut willen omzetten in nauwkeurige uitsplitsingen van arbeid en materiaal, vergelijkingen van onderaannemersprijzen en offertes die klaar zijn voor de klant. Geen enkele formule hoef je zelf op te zetten.**
 
-> **Geen registratie. Geen installatie.**  
-> **Browserversie: gratis.**  
-> **Excel-versie: betaald met 30 dagen geld-teruggarantie.**  
-> [🌐 Open de gratis browsergebaseerde app voor bouwcalculatie](https://hyvoid.github.io/uk-residential-costing-software/)
+> **Direct toegankelijk in de browser • Geen formules meer slepen • Vooraf ingebouwde automatische koppelregels**  
+> **Webcalculator:** Gratis online tool om snel één losse klus te testen.  
+> **Excel-werkmap:** Volledig offline sjabloon voor onbeperkt veel offertes, met 30 dagen niet-goed-geld-terug-garantie.  
 >
-> [📥 Download het professionele Excel-sjabloon voor kostenraming voor bouwbedrijven](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README)
-
-<img width="1920" height="828" alt="image" src="https://github.com/user-attachments/assets/6d58eaae-fcd8-4407-8678-25f5f3067d57" />
-<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/b156ab36-5886-40cb-879d-fbadbbf32a7a" />
-
+> [🌐 Open de gratis online calculator voor Britse bouwkostencalculatie en aanbouwkosten (directe browserdemo)](https://hyvoid.github.io/uk-residential-costing-software/)
+>
+> [📥 Download het plug-and-play Excel-sjabloon voor kostencalculatie en projectkosten van Britse bouwbedrijven (werkmap met automatische formules + 30 dagen garantie)](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
-## Kernfuncties: bouwkostenvolging & oplossingen voor offertebeheer
+## Wat je ermee bijhoudt: pijnpunten bij kostencalculatie en geautomatiseerde spreadsheetoplossingen
 
-Traditionele spreadsheets falen omdat ze hoeveelheden en prijzen met elkaar vermengen. Dit systeem fungeert als een echte **prijsbepalingsmotor voor hoeveelheidsstaten (BOQ)**, expliciet ontworpen om de duurste fouten in de bouwcalculatie op te lossen.
+De meeste bouwoffertes verliezen geld doordat standaardspreadsheets fysieke metingen vermengen met ruwe schattingen. Dit **Excel-sjabloon voor een hoeveelhedenstaat (BOQ) en een werkbeschrijving** legt elke kostenpost automatisch vast, zodat beginners en drukbezette bouwbedrijven een klus in één keer goed kunnen prijzen.
 
-| Probleem bij bouwcalculatie (zoekopdracht) | Geautomatiseerde oplossing in de calculatiemotor |
+| Pijnpunt bij kostencalculatie (veelgezochte zoekterm) | Geautomatiseerde oplossing in de kostenberekeningsspreadsheet |
 | :--- | :--- |
-| **Aannemersmarge vs. verlies van operationele kosten** | Scheidt directe vakmannenkosten, algemene kosten ter plaatse, wettelijke gemeenskosten en onvoorzien van de aannemersmarge, zodat offertemarges nooit in operationele verliezen verzanden. |
-| **Prijzen van subcontractoren & analyse van prijsafwijkingen** | Beoordeelt hoe het wisselen van vakpartners (bijv. lokale bouwbedrijven uit Hertfordshire vs. regionale subcontractoren) direct de basisrentabiliteit van het project verandert op exact dezelfde fysieke BOQ. |
-| **Uitsplitsing van directe kosten (arbeid & materialen)** | Biedt exacte uitsplitsing per post over arbeid, materialen, gespecialiseerde subcontractoren en machinehuur voor elke structurele en architectonische fase. |
-| **Berekening van materiaalverlies voor de bouw** | Berekent dynamisch de stijging van het inkoopvolume per post (bijv. snijverlies bij gevelstenen) in plaats van ze te maskeren met uniforme vuistregel-toeslagen. |
-| **Klantgerichte prijzen vs. interne marges** | Genereert automatisch een gedesensibiliseerd offerteschema voor de klant dat gemeenskosten en algemene kosten ter plaatse soepel in gemengde eenheidsprijzen verwerkt, zonder vakmannenkosten van subcontractoren of doel-bruto-marges bloot te leggen. |
-| **Offerte-integriteit & BOQ-afstemming** | Levert realtime validatie die bevestigt dat er geen niet-geregistreerde postcodes, ontbrekende vakprijzen of formulebreuken zijn, en waarborgt strikte balans tussen interne kostenmodellen en klanttotalen binnen een tolerantie van £0,01. |
+| **Calculator voor opslag versus winstmarge** | Scheidt directe kosten van onderaannemers, bouwplaatsvoorzieningen, algemene bedrijfskosten en risicoreservering van je winstdoel, zodat een opgegeven opslag op de bouwplaats nooit verandert in een cashflowverlies. |
+| **Vergelijking van onderaannemersoffertes en wisselen van tarieven** | Vergelijkt hoe het wisselen van vakploegen (bijvoorbeeld lokale metselaars versus regionale onderaannemers voor grondwerk) de totale projectkosten en de nettowinst verandert bij exact dezelfde metingen uit de tekening. |
+| **Uitsplitsing van arbeid, materialen, materieelhuur en onderaanneming** | Volgt exacte uitsplitsingen tot op de penny voor arbeid, bouwmaterialen, gespecialiseerde onderaannemers en huur van materieel en gereedschap in elke fase van de woningbouw. |
+| **Afvalcalculator voor metselwerk, hout en dakpannen** | Berekent extra inkoophoeveelheden op artikelniveau voor zaagverlies en breuk op de bouwplaats (zoals 10% op gevelstenen of 7% op constructiehout) voordat je je materiaallijst prijst. |
+| **Terugwinning van bouwplaatsvoorzieningen en algemene kosten** | Registreert kosten voor afvalcontainers, steigers, chemische toiletten, Heras-hekken en bouwplaatsmanagement en verdeelt die over de werkzaamheden, zodat klanten niet kunnen afdingen op je operationele budget. |
+| **Generator voor klantoffertes versus verborgen kosten van onderaannemers** | Maakt een overzichtelijk offerteschema dat klaar is voor de huiseigenaar, waarin je interne dagtarieven van onderaannemers, materiaalreserveringen en winstpercentages verborgen blijven, terwijl je interne totaal tot op £0,01 overeenkomt. |
+| **Foutbestendige BOQ-afstemming en signalering van ontbrekende prijzen** | Markeert automatisch niet-geprijsde opnamecodes, tarieven van nul voor werkzaamheden of totale afwijkingen, zodat je nooit een te laag geprijsde bouwaanbesteding verstuurt. |
 
 ---
 
-## Snelstarttutorial: stel uw eerste bouwofferte samen
+## Snelstartgids: een bouwklus prijzen en binnen 1 minuut een klantofferte genereren
 
-Volg dit werkproces om met onze ingebouwde commerciële calculatiefuncties nauwkeurige ramingen en klantklare offertes te genereren.
+Je hebt geen opleiding als bouwkostendeskundige en geen Excel-vaardigheden nodig om een professionele bouwkostenanalyse uit te voeren. Volg deze 4 stappen om een woningaanbouw, een zolderkamerverbouwing of een volledige renovatie te prijzen:
 
-1. **Stel sleutelparameters in (projectopzet)**: Open `01_Setup` om de projectmetadata te configureren. Gebruik de **dynamische dropdownlijst van aannemers** om uw actieve offertepartner te selecteren, stel de valutaweergave (£) in en bevestig de globale doelen voor de **modus algemene kosten ter plaatse**, gemeenschappelijke kosten & winst (OHP %), onvoorzien % en de wettelijke btw.
-2. **Voer fysieke hoeveelheden in (opname-import)**: Open `04_Project_Estimate` en voer de opnamecodes uit de architectuurtekeningen (`Takeoff_Item_Code`) in samen met de fysiek gemeten hoeveelheden (`Measured_Quantity`). De motor koppelt direct de **prijsmatrices per vak** uit de centrale bibliotheek, zonder handmatig formules slepen.
-3. **Leg sitelogistiek & toeslagen vast**: Voer niet-standaard siteverplichtingen (bijv. duur van steigerhuur, huur van afvalcontainers, sanitaire voorzieningen) en voorlopige klantsommen (bijv. keukenpakketten, toeslagen voor sanitair) in de **calculator voor algemene kosten ter plaatse** `05_Adjustments` in.
-4. **Inspecteer beslissingsweergaven & exporteer**: Controleer interne margedrempels en break-even-vloeren in `06_Internal_Estimate`, vergewis u ervan dat `08_Checks` geen rode vlaggen activeert, en exporteer het gedesensibiliseerde, klantklare offerte direct uit `07_Customer_Estimate` naar PDF. 
+1. **Kies je uurtarieven per vakgebied en je doelwinstmarge (`01_Setup`)**: Open het instellingenblad en kies je actieve tariefprofiel voor werkzaamheden in het dropdownmenu. Voer je doelwaarde in voor **algemene kosten en winst (OHP %)**, **risicoreservering %**, **wijze van terugwinning van bouwplaatsvoorzieningen** en **Brits btw-tarief**.
+2. **Kopieer en plak je bouwhoeveelheden (`04_Project_Estimate`)**: Plak je artikelcodes (`Takeoff_Item_Code`) en de maten uit je tekening (`Measured_Quantity`) rechtstreeks in het werkblad. De vooraf gebouwde rekenmachine koppelt elk artikel automatisch aan de bijbehorende tarieven voor arbeid, materiaal, materieel en afval.
+3. **Voeg bouwplaatsvoorzieningen en voorlopige posten voor de klant toe (`05_Adjustments`)**: Voer projectspecifieke kosten voor de bouwplaats in (weken steigerwerk, afvalcontainers voor afvoer van grond, tijdelijke voorzieningen) en reserveringen voor de huiseigenaar (keukenkasten, sanitair in de badkamer, vouwdeuren).
+4. **Controleer je winstoverzicht van 1 minuut en exporteer de klantofferte (`06` tot `08`)**: Controleer je werkelijke break-evenondergrens en je netto cashwinst in `06_Internal_Estimate`, bevestig de groene controlelampjes in `08_Checks` en print de offerte voor de huiseigenaar vanuit `07_Customer_Estimate` rechtstreeks naar PDF.
 
-> **Klaar om uw offerteproces te schalen?** Nadat u de browserversie heeft uitgeprobeerd, [📥 download het herbruikbare Excel-sjabloon voor kostenraming voor onbeperkte offertes en levenslange offline toegang](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README).
+### Waarom drukbezette bouwbedrijven de webdemo inruilen voor het herbruikbare Excel-sjabloon
+
+Achter de schermen is bouwkostenadministratie complex, maar **deze Excel-werkmap heeft elke opzoekregel, afvalfactor en dynamische spillformule al vooraf gebouwd en vastgezet**. 
+
+Je hoeft nooit een formule te schrijven, een kapotte `VLOOKUP` te repareren of zelfs maar op de hoek van een cel te dubbelklikken om formules door een kolom te slepen. Download het bestand naar je bureaublad, **kopieer en plak je eigen projectmaten** en krijg met één klik een volledige commerciële uitsplitsing:
+- **1 minuut naar een professionele kostenanalyse**: van ruwe getallen uit bouwtekeningen naar een volledig gecontroleerde aanbesteding, zonder dat je een freelance kostencalculator hoeft in te huren.
+- **1 minuut naar heldere beslissingsprioriteiten**: zie meteen welke vakpakketten of materiaalafvalfactoren je marge opeten voordat je een contract met vaste prijs ondertekent.
+- **Gebouwd voor het hoogseizoen in de bouw**: breng je avonden door met uitrusten of met het binnenhalen van nieuwe klanten in plaats van te worstelen met kapotte spreadsheets. Nadat je één klus hebt getest in de browsertoepassing, gebruik je het Excel-bestand op je desktop om je tariefbibliotheek op te slaan, te dupliceren en te hergebruiken voor onbeperkt veel aanbestedingen.
+
+> [📥 Haal de herbruikbare Excel-werkmap voor Britse bouwkostencalculatie — Plak je gegevens voor geautomatiseerde projectkosten in 1 minuut](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
-## Waarom ik deze calculatiesoftware heb gebouwd
+## Vergelijking van spreadsheets voor kostencalculatie: handmatige Excel-offertes versus een geautomatiseerde BOQ-rekenmachine
 
-De meeste ramingen voor particuliere en mid-market woningbouwprojecten (£100.000–£500.000) falen lang voordat de eerste spade in de grond gaat. Ze falen omdat kleine en middelgrote bouwbedrijven en projectmanagers vertrouwen op monolithische **bouwcalculatie-spreadsheets** waarin vakprijzen, sitelogistiek, materiaalverlies en fysieke hoeveelheden in één enkele cel zijn vastgesoldeerd. Wanneer een hoofdaannemer bijgewerkte subcontractorsprijzen ontvangt of een offerte moet indienen met een ander timmerteam, moet de volledige BOQ met de hand worden herbouwd.
-
-Bij een recente raming voor een tweelaags uitbouw van £260.000 paste de hoofdaannemer een gebruikelijke forfaitaire opslag van 15% toe op een samengestelde prijs per vierkante meter voor metselwerk. De site was echter alleen bereikbaar via een smalle onverharde steeg achter, wat transport met kleine machines vereiste, en de op maat gemaakte gevelstenen hadden een snijverliesfactor van 10% in plaats van de standaard 5%. Omdat het tarief een hard gecodeerd samengesteld getal was, werden de extra £4.200 aan overschot aan stenen en £3.800 aan extra machinehuur nooit aan de projectbasis toegerekend. De offerte leek concurrerend, maar na oplevering realiseerde de aannemer een nettomarge van 3,4% in plaats van de beoogde 16% — waardoor de operationele cashflow volledig werd weggevaagd.
-
-Ik heb deze **bouwcalculatiemotor** gebouwd om dit faalpatroon voor altijd uit te roeien. In plaats van een raming te behandelen als een statisch rekenblad, maakt dit tool commercieel kostenengineering tot product: het scheidt de onveranderlijke fysieke geometrie van een gebouw van vluchtige vaklonen, isoleert algemene kosten ter plaatse en cascadeert commerciële opslagen dynamisch over de klantdocumenten.
-
----
-
-## Veelvoorkomende problemen bij woningbouwraming die dit tool oplost
-
-| Probleem bij raming & calculatie | Beperkingen van traditionele spreadsheets | Oplossing van de geautomatiseerde calculatiemotor |
+| Taak bij offertes en projectkosten | Standaard lege Excel-spreadsheets en handmatige offertes | Geautomatiseerd Excel-sjabloon voor Britse woningbouwkosten |
 | :--- | :--- | :--- |
-| **Gekoppelde hoeveelheden en arbeidprijzen** | Het opnieuw ramen van een offerte met een nieuwe subcontractor vereist het opnieuw invoeren van projectafmetingen en het kopiëren van formules over tientallen BOQ-regels. | De fysieke opnamehoeveelheden blijven onaangeroerd; het wisselen van de aannemersdropdown in `01_Setup` herindexeert alle loon-, machine- en materiaaltarieven in minder dan een seconde. |
-| **Stille onderschatting van materiaalverlies** | Forfaitaire procentuele toeslagen op totalsommen dekken geen snijverlies op hoogwaardig metselwerk, tegels en structureel hout. | Postspecifieke gelaagde logica paste dedicated verliesparameters toe op inkoophoeveelheden voordat de prijsvorming plaatsvindt, wat nauwkeurige **opnameringen** waarborgt. |
-| **Lekkage van toegevingen aan voorkosten** | Steigers, containerhuur en projectleiding staan als transparante forfaits op de offerte, die klanten routineus wegonderhandelen tijdens de contractreview. | Algemene kosten ter plaatse en bedrijfsgemeenskosten worden wiskundig verwerkt in gemengde klantpostprijzen, waardoor de dekking van gemeenskosten beschermd blijft binnen bindende eenheidsprijzen. |
-| **Formule-drift & gebroken verwijzingen** | Het toevoegen van onverwachte structurele posten vereist handmatig invoegen van regels en slepen van formules, waardoor regels vaak uit de totalen blijven. | Moderne dynamische spill-arrays met één enkel invoerpunt nemen nieuwe regels automatisch op en verdelen sommen over alle analysewerkbladen voor waterdichte **projectkostenberekening**. |
-| **Klantzicht op commerciële ondergrenzen** | Calculateurs besteden uren aan het handmatig opschonen van interne calculatiespreadsheets tot klantoffertes, met het risico op accidentele openbaarmaking van vakmarges. | Een volledig ontkoppeld klantwerkblad leest uit de centrale motor en toont heldere werksecties, terwijl het interne vakprijzen en winstmarges volledig verbergt. |
+| **Tarieven van onderaannemers bijwerken in een hele aanbesteding** | Vereist dat je nieuwe prijzen voor arbeid en materiaal met de hand in tientallen rijen typt en elke `SUM`-formule opnieuw controleert. | Wissel de dropdown voor de aannemer in `01_Setup` en alle rijen voor grondwerk, metselwerk, timmerwerk en W- en E-installaties worden in minder dan 1 seconde opnieuw geprijsd. |
+| **Zaagverlies en breuk van materialen berekenen** | Past één ruw percentage toe onderaan de offerte, waardoor posten met veel afval zoals gevelstenen, porseleinen tegels en C24-houten balken te weinig budget krijgen. | Past artikelspecifieke afvalfactoren toe op de ruwe metingen voordat deze met de eenheidsprijzen van de leverancier worden vermenigvuldigd. |
+| **Steigers, afvalcontainers en bouwplaatsvoorzieningen beschermen** | Zet steigers, afvalcontainers en bouwplaatsbegeleiding als aparte posten onderaan, waardoor huiseigenaren ze tijdens prijsonderhandelingen wegstrepen. | Neemt bouwplaatsvoorzieningen en algemene kosten wiskundig op in de factureerbare eenheidsprijzen per vakgebied, zodat elke gebouwde vierkante meter je lopende kosten op de bouwplaats dekt. |
+| **Nieuwe posten aan een werkbeschrijving toevoegen** | Het invoegen van rijen midden in het werkblad breekt vaak celverwijzingen of laat nieuwe posten buiten het bereik van het eindtotaal vallen. | Gebruikt moderne dynamische matrixformules van Microsoft 365 / Excel 2021+ die automatisch uitbreiden op het moment dat je nieuwe regels plakt. |
+| **Een offerteschema maken dat klaar is voor de huiseigenaar** | Kost uren waarin je via "Opslaan als" interne margekolommen verwijdert, met het risico dat je kostenbasis per ongeluk bij de klant terechtkomt. | Genereert automatisch een apart, klantveilig offerteblad, terwijl je tarieven en winstdoelen strikt privé blijven. |
 
 ---
 
-## Doelgroepen & specifieke calculatiescenario's
+## Voor wie dit bedoeld is: sjablonen voor kostencalculatie per rol en vakgebied
 
-Dit sjabloon fungeert als een lichtgewicht ERP voor bouwprofessionals die woningbouwopdrachten afhandelen. 
+Deze tool is gebouwd voor mensen die nu betrouwbare bouwcijfers nodig hebben zonder weken te besteden aan het leren van complexe enterprise-software voor kostencalculatie:
 
-- **Woningbouwers & hoofdaannemers (£100.000–£500.000)**: Algemene bouwbedrijven die deze **calculatiesoftware voor woninguitbouwen**, complete renovaties van woningen en **sjablonen voor kostenraming van zolderkamers** gebruiken om verdedigbare interne marges te beveiligen voordat zij vaste-prijs-JCT-contracten ondertekenen.
-- **Kostenramers & calculatieadviseurs**: Professionals die meerdere prijsbestanden van subcontractoren beheren en een schaalbaar **BOQ-prijsbepalingssjabloon** en een herbruikbaar **Excel-werkblad voor offertes** nodig hebben, zonder fragiele, complexe bedrijfsinfrastructuur te onderhouden.
-- **Projectontwikkelaars & zelfbouwers**: Actoren die een transparante **kostencalculator voor huisbouw** en een bottom-up-benchmarktool zoeken om offertepakketten van aannemers tegen het licht te houden en belaste vakposten te identificeren.
+- **Kleine bouwbedrijven en bedrijven in de woningbouw (`Builders Quote Template UK` & `Job Costing Spreadsheet`)**: Bouwers die zelf de handen uit de mouwen steken bij woningprojecten van £50k–£500k en een snel, herhaalbaar **sjabloon voor bouwoffertes** nodig hebben om hun nettowinst vast te leggen voordat ze JCT-contracten met huiseigenaren ondertekenen.
+- **Aannemers voor woningaanbouw en zolderkamerverbouwingen (`House Extension Cost Calculator` & `Renovation Pricing Sheet`)**: Onderaannemers die offertes maken voor aanbouwen aan de achterzijde over één verdieping, aanbouwen over twee verdiepingen, dakkapellen voor zolderkamers en garageverbouwingen, en die direct **uitsplitsingen van arbeids- en materiaalkosten** willen.
+- **Beginende kostencalculatoren en onderaannemers die doorgroeien naar hoofdopdrachtgeverschap (`Beginner Construction Estimating Spreadsheet`)**: Metselaars, timmerlieden en bouwbedrijven die hun eerste volledige turnkeyprojecten prijzen en een gestructureerde **checklist voor de werkbeschrijving** nodig hebben, zodat geen verborgen bouwplaatskosten worden vergeten.
+- **Freelance kostencalculatoren en junior bouwkostendeskundigen (`BOQ Excel Template` & `Tender Schedule Workbook`)**: Professionals in kostencalculatie die meerdere regionale tariefkaarten van onderaannemers beheren en een overzichtelijke, onderhoudsvrije **werkmap voor het prijzen van een hoeveelhedenstaat** willen.
+- **Zelfbouwers, vastgoedflippers en huiseigenaren (`House Building Cost Calculator` & `Refurbishment Budget Tracker`)**: Projecteigenaren die een bottom-up **spreadsheet voor het bouwbudget** willen om offertes van bouwers op logica te controleren en ontbrekende voorlopige posten op te sporen voordat het werk op de bouwplaats begint.
 
-*Niet ontworpen voor*: Commerciële hoogbouw- en civiele techniekprojecten die volledige SMM7/NRM2-advies-hoeveelheidsstaten vereisen, multi-user ERP-boekhouding voor bedrijven, of directe geautomatiseerde CAD/BIM-polygonextractie.
-
-Geen spreadsheet-expertise nodig. Open de gratis browserapp en begin direct met ramen. Het robuuste desktopversie nodig? [Koop het professionele Excel-sjabloon voor kostenraming met 30 dagen geld-teruggarantie](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README).
+*Reikwijdte*: Speciaal ontworpen voor Britse woningbouw, aanbouwen, renovaties en nieuwbouwwoningen. Niet bedoeld voor civieltechnische snelwegcontracten van meerdere miljoenen ponden, multi-user cloudboekhoud-ERP's of het opmeten van polygonen in 3D BIM-modellen.
 
 ---
 
-## Over de ontwikkelaar
+## Praktijkscenario's: hoe beginners en drukbezette aannemers klussen prijzen zonder ervaring in kostencalculatie
 
-Ik bouw geproductualiseerde beslissingsondersteunende tools en lichte operationele modellen voor omgevingen waarin er simpelweg te veel bewegende delen zijn om ze op intuïtie te managen. In de woningbouw accumuleren enkele tekortkomingen in de raming zich tot structurele cashflow-fouten. Mijn werk richt zich op het beantwoorden van één fundamentele vraag: *„Welke informatie heb ik op één duidelijke plek nodig om de volgende commerciële beslissing met absolute zekerheid te nemen?“* De **Britse bouwcalculatiemotor voor woningbouw** is de exacte realisatie van deze aanpak.
+Zoekmachines en brancheforums staan vol met bouwbedrijven die vragen hoe ze woningklussen snel kunnen prijzen zonder te laag te offreren. Zo lost dit sjabloon de drie meest voorkomende calculatiescenario's op met eenvoudige kopieer- en plakacties:
+
+### Scenario 1: een aanbouw aan de achterzijde of zolderkamerverbouwing prijzen in minder dan 15 minuten
+In plaats van op zondagavond naar een leeg scherm te staren, plak je je opgemeten vierkante meters fundering, spouwmuur, plat warm dak en gipsplaatwerk in `04_Project_Estimate`. De werkmap haalt automatisch de bijbehorende tarieven voor arbeid, materiaal en materieel op, voegt zaagverlies per artikel toe en levert zowel je interne kostenoverzicht als de PDF-offerte voor de huiseigenaar op.
+
+### Scenario 2: twee offertes van onderaannemers vergelijken voordat je een aanbesteding indient
+Wanneer je vaste grondwerk- of dakploeg volgeboekt is, moet je vaak een iets duurdere onderaannemer inschakelen. In plaats van de hele calculatie opnieuw te typen, wissel je het actieve aannemersprofiel in `01_Setup`. Je ziet meteen hoe de tarieven van de nieuwe ploeg je totale aanbiedingsprijs en je netto winstmarge veranderen, zodat je je offerte kunt bijstellen voordat je die naar de klant stuurt.
+
+### Scenario 3: controleren of een klus met vaste prijs eigenlijk wel de moeite waard is
+Voordat je je team in het hoogseizoen vastlegt op een renovatie van 16 weken, plak je de hoeveelheden van de klus in de werkmap en bekijk je `06_Internal_Estimate`. Het werkblad toont je exacte break-evenondergrens in ponden (£), hoeveel geld naar onderaannemers gaat ten opzichte van materialen, en hoeveel zuivere winst er overblijft nadat bouwplaatsvoorzieningen en risicoreservering zijn gedekt.
+
+---
+
+## Waarom ik deze rekenmachine voor bouwkosten heb gebouwd
+
+De meeste calculaties voor woningbouw tussen £100.000 en £500.000 verliezen geld voordat de eerste graafmachine op de bouwplaats arriveert. Dat komt doordat kleine bouwbedrijven moeten kiezen tussen opgeblazen enterprise-software waarvan je maanden nodig hebt om die onder de knie te krijgen, en kwetsbare zelfgemaakte spreadsheets waarin metingen, afval en tarieven in dezelfde cel worden getypt.
+
+Bij een recente aanbouw over twee verdiepingen van £260.000 zette een bouwer een vlakke opslag van 15% op een alles-inclusief tarief per vierkante meter voor metselwerk. De smalle toegang aan de achterzijde maakte echter huur van een kleine dumper nodig, en de gekozen gevelstenen hadden een zaagverlies van 10% in plaats van de standaard 5%. Omdat de bouwer één gecombineerd tarief gebruikte, werden £4.200 aan extra steenafval en £3.800 aan extra materieelhuur nooit op de klus gefactureerd. De offerte leverde het werk op, maar na 5 maanden op de bouwplaats hield de bouwer een netto rendement van 3,4% over in plaats van de geplande 16%, waardoor zijn werkkapitaal werd weggevaagd.
+
+Ik heb deze **werkmap voor kostencalculatie in de Britse woningbouw** gebouwd zodat elke bouwer of beginner die fout binnen 60 seconden kan voorkomen. Door fysieke bouwmetingen gescheiden te houden van tarieflijsten, afval per materiaal te berekenen en bouwplaatsvoorzieningen automatisch in de eenheidsprijzen voor de klant te verwerken, neemt de spreadsheet het commerciële zware werk voor je uit handen.
+
+---
+
+## De bedrijfslogica en methodologie: hoe deze spreadsheet je winstmarges beschermt (in begrijpelijke taal)
+
+Je hebt geen accountantsdiploma nodig om een winstgevend bouwbedrijf te runnen, want de commerciële regels zitten al in de cellen ingebouwd. Achter de eenvoudige kopieer-en-plakworkflow beschermt de spreadsheet je banksaldo door drie verborgen financiële blinde vlekken te dichten waar de meeste bouwbedrijven voor woningbouw in trappen:
+
+### 1. Bouwmetingen scheiden van tarieven per vakgebied (de valkuil van opslag versus marge oplossen)
+- **Het objectieve feit**: Een opslag van 20% op £100.000 aan bouwkosten levert je slechts een winstmarge van 16,67% op (£20.000 winst gedeeld door een prijs van £120.000). Erger nog: als je één gecombineerde prijs per vierkante meter in een spreadsheet typt, weet je niet welk deel van dat geld wordt opgeslokt door materialen, arbeid, gereedschapshuur of kosten van onderaannemers wanneer de prijzen van leveranciers stijgen.
+- **Hoe de tool je beschermt**: De werkmap splitst elke bouwtaak in vier duidelijke categorieën: **arbeid, materialen, onderaannemers en materieelhuur**. Je fysieke metingen blijven vast in één kolom staan, terwijl de prijzen automatisch uit een opzoektabel komen. Wanneer de prijzen van hout of stenen stijgen, werk je de tarieftabel één keer bij en elke offerte wordt direct bijgewerkt zonder dat je één formule hoeft aan te raken.
+
+### 2. Automatische afvalfactoren per materiaal en per artikel (stille geldlekken stoppen)
+- **Het objectieve feit**: Als een bouwtekening 100 vierkante meter metselwerk of dakbedekking toont, kun je geen 100 vierkante meter materiaal kopen. Snijverlies rond ramen, gebroken stenen in pallets en reststukken hout betekenen dat je in werkelijkheid 105 tot 115 vierkante meter moet inkopen. Bij een project van £200.000 dwingt het vergeten door te rekenen van zaagverlies de bouwer om £3.000 tot £6.000 aan extra materialen uit zijn eigen nettoloon te betalen.
+- **Hoe de tool je beschermt**: Elke artikelcode in het sjabloon heeft een eigen ingebouwd afvalpercentage. Wanneer je 100 vierkante meter uit de tekening plakt, prijst de spreadsheet automatisch het volledige inkoopvolume dat op de bouwplaats nodig is, zodat de klant betaalt voor het werkelijke materiaalverbruik.
+
+### 3. Proportionele verwerking van algemene kosten en bouwplaatsvoorzieningen (voorkomt afdingen door de klant)
+- **Het objectieve feit**: Huiseigenaren willen betalen voor zichtbare resultaten zoals muren, daken en keukens; ze betalen liever niet voor afvalcontainers, steigers, chemische toiletten, bouwverzekeringen en jouw tijd voor het beheren van de bouw. Als je £12.000 aan bouwplaatsvoorzieningen en £25.000 aan winst van de bouwer als aparte posten onderaan een offerte zet, proberen klanten die posten standaard omlaag te onderhandelen of bieden ze aan "hun eigen afvalcontainers te bestellen" om je prijs te verlagen.
+- **Hoe de tool je beschermt**: Het offerteblad voor de klant (`07_Customer_Estimate`) verdeelt je bouwplaatsvoorzieningen, risicoreservering en winstdoel automatisch gelijkmatig over de zichtbare bouwtaken (grondwerk, metselwerk, dakwerk, stucwerk). De huiseigenaar ziet een overzichtelijke, gespecificeerde prijslijst die tot op de laatste cent (£0,01) uitkomt op jouw exacte doelbedrag, terwijl je terugwinning van algemene kosten en je winstmarges volledig onzichtbaar blijven en beschermd zijn tegen onderhandeling.
+
+---
+
+## Over de ontwikkelaar en meer plug-and-play bedrijfssjablonen
+
+Ik ontwerp praktische, plug-and-play tools voor bedrijfsbeslissingen en geautomatiseerde Excel-sjablonen voor ondernemers die heldere commerciële antwoorden willen zonder complexe software-installatie of handmatig formuleonderhoud. Elk sjabloon is gebouwd rond één doel: **plak je ruwe cijfers en krijg binnen 1 minuut financiële helderheid waarop je kunt beslissen.**
+
+- [📥 **Download het Excel-sjabloon voor kostencalculatie en projectkosten in de Britse woningbouw (inclusief 30 dagen niet-goed-geld-terug-garantie)**](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README)
+- [🌐 **Probeer eerst de gratis browsergebaseerde calculator voor Britse bouwkosten**](https://hyvoid.github.io/uk-residential-costing-software/)
+- [🛠️ **Bekijk alle plug-and-play Excel-rekenmachines, cashflowdashboards en toolkit voor kostencalculatie bij Theseus Workshop (theseusworkshop.com)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
@@ -363,24 +409,36 @@ $$\begin{aligned}
 ---
 
 
-## De bedrijfslogica & methodologie
-
-Dit systeem vertrouwt op een **drie-traps decompositie van de eenheidseconomie**, gecombineerd met een **proportioneel absorptiekostenmodel**. Traditionele bouwraming vertrouwt op brute historische eenheidstarieven (bijv. £2.200 per vierkante meter bruto binnenoppervlak), wat afwijkingen op vakniveau, topografische beperkingen van de site en verstoringen in de marktanbod verbergt.
-
-Om dit op te lossen, dwingt de motor strikte ontkoppeling af:
-1. **Laag van fysieke hoeveelheden**: Legt de werkelijke geometrische opname vast met dedicated materiaalverliesfactoren.
-2. **Resourceprijsmatrix**: Ontbindt elke standaard bouwtaak in zijn vier fundamentele commerciële componenten (arbeid, materiaal, subcontract, machines), dynamisch gekoppeld aan benoemde vakbedrijven.
-3. **Dubbelmarge-waterval**: Onderscheidt directe productiekosten van sitespecifieke algemene kosten ter plaatse om een **prime-cost-basislijn** vast te stellen. Commerciële gemeenskosten, winstmarges en projectonvoorzien worden vervolgens op deze geconsolideerde basislijn toegepast, wat een ondoordringbare break-even-vloer tot stand brengt.
-
-Om klantzijdige marge-erosie tijdens commerciële offerteonderhandelingen te voorkomen, past het klantschema **proportionele absorptie** toe. In plaats van algemene kosten ter plaatse, aannemersmarge en risicoreserves als zelfstandige discretionaire sommen te presenteren, verdeelt de motor deze lasten wiskundig over de factureerbare fysieke posten. Het resulterende klantschema stemt tot op de cent nauwkeurig overeen met de interne commerciële taxatie, terwijl gevoelige vakmarges volledig beschermd blijven.
-
----
-
 ## Andere tools in deze serie
 
-- **[Vergelijkings- & afwijkingsmotor voor subcontractorsoffertes](#)**: Legt meerdere vakoffertes tegen basale interne ramingen bloot om prijsafwijkingen en scooplekten te identificeren.
-- **[Planner voor bouwcashflow & mijlpaal-S-curve](#)**: Zet schema's van hoeveelheidsstaten om in maandelijkse waarderingsprognoses, tracking van retenties en afboekingen van werkkapitaal.
-- **[Tracker voor projectkosten & werkelijke kosten van woningbouwprojecten](#)**: Kostenregelsysteem na gunning dat inkooporders, urentabellen en wijzigingsopdrachten volgt tegen de oorspronkelijke offertebaselines.
+- **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — Waarom is er altijd te weinig cash? — Voorspel de toekomstige liquiditeit onder veranderende operationele en financiële aannames.
+- **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — Welke handelsstromen zijn na valuta-effecten daadwerkelijk winstgevend? — Meet de winstgevendheid van handel in meerdere valuta's bij grensoverschrijdende activiteiten.
+- **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — Welke financieringsstructuur is haalbaar onder verschillende scenario's voor kredietnemers en onderpand? — Vergelijk financieringsscenario's met risicogecorrigeerde financieringsaannames.
+- **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — Waar raken privégeld en bedrijfsgeld vermengd of verkeerd toegewezen? — Splits privé- en bedrijfscashflows in afzonderlijk gevolgde budgetsporen.
+- **[Multifamily-Value-Add-Acquisition-Model](https://github.com/HyVoid/Multifamily-Value-Add-Acquisition-Model)** — Creëert deze vastgoedaankoop na renovatie en operationele aannames nog steeds eigen vermogen? — Beoordeel het rendement van de aankoop van meergezinswoningen onder scenario's voor renovatiefinanciering en exploitatie.
+- **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — Wat is een pand waard volgens verschillende waarderingsmethoden? — Bereken de waarde van vastgoed volgens meerdere waarderingsmethoden, met modellering van belastingen en investeringen.
+- **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — Worden gedeelde kosten eerlijk verdeeld over de entiteiten, of dragen sommige activa te veel en ontsnappen andere aan hun werkelijke kostendruk? — Verdeel leveranciersfacturen over meerdere juridische entiteiten en operationele activa met configureerbare toewijzingsmethoden.
+- **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — Hoeveel is elke deelnemer feitelijk verschuldigd op basis van het moment van instappen en de huidige waarde van de pool? — Volg het eigendom van de investeringspool continu met op NAV gebaseerde eenhedenadministratie.
+- **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — Welke operationele verplichtingen veroorzaken de komende twaalf weken een cashprobleem? — Verbind Shopify-verkopen, banktransacties, advertentie-uitgaven en voorraadinkopen in één uniform kader voor cashflowbeslissingen.
+- **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — Is er genoeg zinvolle informatie veranderd om een prijsaanpassing te rechtvaardigen? — Beheer prijsadviezen via configureerbare kaders die onnodige volatiliteit in omzet voorkomen.
+- **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — Wat is er deze periode feitelijk veranderd in het bedrijf en welke producten of zoekwoorden veroorzaakten die verandering? — Zet exports uit Amazon Seller Central SQP en Sellerboard om in gestandaardiseerde bedrijfsreviews voor het management.
+- **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — Welke producten zijn na toerekening van alle productiekosten daadwerkelijk winstgevend en welke vreten marge weg? — Wijs kosten voor fabrieksarbeid, nutsvoorzieningen, algemene kosten en materialen toe aan elke SKU voor een realistische economische kostprijs per eenheid.
+- **[ecommerce-profit-calculator-excel](https://github.com/HyVoid/ecommerce-profit-calculator-excel)** — Welke bestellingen zijn na alle verborgen kosten daadwerkelijk winstgevend en waar lekt geld weg over kanalen en valuta's? — Reconstrueer de werkelijke winstgevendheid per bestelling door uitbetalingen, verzendkosten, betaalkosten en marktplaatscommissies met elkaar te verzoenen in multichannel e-commerce.
+- **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — Welke aannemersprojecten en klanten zijn na alle projectkosten daadwerkelijk winstgevend? — Verbind leadcalculatie, uitvoering van de klus en het volgen van werkelijke kosten in één uniform kader voor aannemerswinstgevendheid.
+- **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — Is de zaak echt winstgevend na alle kosten voor ingrediënten, arbeid en bedrijfsvoering? — Verbind receptcalculatie, verkoop, voorraadverbruik en bedrijfskosten in één uniform kader voor winstgevendheid en cashflow.
+- **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — Welke vrachtboekingen zijn na alle kosten, heffingen en valutaomrekeningen daadwerkelijk winstgevend? — Meet de winstgevendheid per boeking door omzet, COGS, bankkosten en containerkosten met elkaar te verzoenen bij transacties in gemengde valuta's.
+- **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — Welke containers en klanten zijn over douane- en vlootactiviteiten heen daadwerkelijk winstgevend? — Bundel gegevens over douaneafhandeling en vlootuitvoering in één overzicht van winstgevendheid per container.
+- **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — Hoeveel is er vandaag feitelijk verschuldigd na jaren van overboekingen en opgebouwde rente? — Verzoen langlopende geldoverboekingen en renteopbouw tot één actueel openstaand saldo.
+- **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — Hoe zien onze financiële overzichten eruit onder verschillende operationele en financieringsscenario's? — Voorspel geïntegreerde financiële overzichten door omzet, kosten, werkkapitaal en schulden aan elkaar te koppelen in één model.
+- **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — Hoeveel van de gerapporteerde marge van elk gebouw wordt feitelijk door dat gebouw gegenereerd en hoeveel door de manier waarop bedrijfskosten zijn toegerekend? — Verdeel gedeelde kosten over operationele eenheden met behoud van de brontransacties en verzoening van resultaten per eenheid met de bedrijfstotalen.
+- **[real-estate-development-feasibility-excel](https://github.com/HyVoid/real-estate-development-feasibility-excel)** — Bij welke maximale aankoopprijs voor de grond wordt dit ontwikkelproject een bankable investering? — Beoordeel kansen voor woningontwikkeling door grondreferenties te screenen, bouwkosten te ramen en drempelwaarden voor winst op kosten te berekenen.
+- **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — Welke groothandelsprijzen en klantsegmenten behouden echt marge wanneer vracht, invoerrechten, betalingsvoorwaarden en valutakoersen volledig zijn meegerekend? — Bereken landed costs per SKU, kosten om te bedienen en prijswatervallen voor pocket margin om de winstgevendheid van grensoverschrijdende groothandel te simuleren.
+- **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — Wat moeten we vragen voor een order met maatwerk labels in elke hoeveelheidsklasse om concurrerend en winstgevend te blijven? — Bereken parametrische labelprijzen door kosten per vierkante inch van het materiaal, opstartkosten en staffelkortingen te modelleren tegen benchmarks van concurrenten.
+- **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — Wat is de werkelijke nettomarge per SKU als de feitelijke landed costs en inhoudingen van de retailer zijn meegerekend? — Verzoen geschatte landed costs uit de inkooporder met werkelijke vracht-, invoerrechten-, valuta- en transportkosten en controleer daarbij de inhoudingen op afrekeningen van retailers om de nettomarge per SKU zichtbaar te maken.
+- **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — Kunnen we de verplichtingen van deze week op het gebied van personeel, marketing en leveranciers aangaan zonder dat het geld op is voordat de boeken sluiten? — Volg wekelijks het tempo van cash burn, de variantie in de MRR/ARR-waterval, retentiemetrieken en loonkosten ten opzichte van het budget vóór de maandafsluiting.
+- **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — Loopt ons groeiplan zonder cash voordat de cohortmonetisatie op gang komt? — Voorspel meerjarige cash burn, runway, unit economics en verwatering door financiering op basis van bottom-up cohort- en personeelsaannames.
+- **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — Is elke Shopify-storefront daadwerkelijk winstgevend zodra de werkelijke kosten per SKU, gedeelde kosten en bankkosten zijn verzoend? — Verzoen verkoopexports van meerdere Shopify-stores met COGS per SKU, toegerekende OPEX in meerdere valuta's en bankafschriften om een betrouwbare maandelijkse P&L op te stellen.
+- **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — Welke touroekingen leveren na leverancierskosten en B2B-incasso's daadwerkelijk netto winst en positieve cashflow op? — Bereken projectkosten per tourboeking, brutomarges, afwikkeling van debiteuren en crediteuren en operationele cashflow in meerdere valuta's.
 
 ---
 
