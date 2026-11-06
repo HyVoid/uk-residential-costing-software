@@ -1,93 +1,139 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# UK Residential Construction Estimating Software & Builders Costing Excel Template
+# UK Residential Construction Estimating Excel Template, Builders Costing Spreadsheet & Free House Extension Quote Calculator
+<img width="1116" height="790" alt="image" src="https://github.com/user-attachments/assets/ef19083b-5749-48f9-a64e-ce3f13936127" />
+
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Platform](https://img.shields.io/badge/Platform-Browser%20(Free)%20%7C%20Excel%20(Paid)-emerald.svg)](#)
-[![Tool Type](https://img.shields.io/badge/Tool%20Type-Decision%20Support%20%7C%20Costing%20Engine-orange.svg)](#)
+[![Platform](https://img.shields.io/badge/Platform-Free%20Web%20Calculator%20%7C%20Plug--and--Play%20Excel-emerald.svg)](#)
+[![Audience](https://img.shields.io/badge/Built%20For-UK%20Builders%2C%20Trades%20%26%20First--Time%20Estimators-orange.svg)](#)
 
-**An advanced UK residential construction estimating template and building project costing software designed to turn measured architectural drawing quantities into contractor-specific tender budgets, internal commercial bottom-lines, and clean client quotations in seconds. Available as a free browser-based construction quoting tool and a fully unlocked professional Excel estimating workbook for builders, backed by a 30-day money-back guarantee.**
+**A plug-and-play UK residential construction estimating Excel template, builders job costing spreadsheet, and free online building quote calculator. Built for domestic builders, trade contractors, property developers, and beginners who need to turn architectural drawing measurements into accurate labour and material breakdowns, subcontractor price comparisons, and client-ready building quotes in 1 minute. Zero formula setup required.**
 
-> **No signup. No installation.**  
-> **Browser version: Free.**  
-> **Excel version: Paid with a 30-day money-back guarantee.**  
-> [🌐 Open the Free Browser-Based Construction Estimating App](https://hyvoid.github.io/uk-residential-costing-software/)
+> **Instant Browser Access • Zero Formula Dragging • Pre-Built Auto-Matching Rules**  
+> **Web Calculator:** Free online tool for quick single-job testing.  
+> **Excel Workbook:** Full offline template for unlimited quotes, backed by a 30-day money-back guarantee.  
 >
-> [📥 Download the Professional Builders Estimating Excel Template](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README)
-
-<img width="1920" height="828" alt="image" src="https://github.com/user-attachments/assets/6d58eaae-fcd8-4407-8678-25f5f3067d57" />
-<img width="1163" height="790" alt="image" src="https://github.com/user-attachments/assets/b156ab36-5886-40cb-879d-fbadbbf32a7a" />
-
+> [🌐 Launch the Free Online UK Construction Estimating & Extension Cost Calculator (Instant Browser Demo)](https://hyvoid.github.io/uk-residential-costing-software/)
+>
+> [📥 Download the Plug-and-Play UK Builders Estimating & Job Costing Excel Template (Auto-Formula Workbook + 30-Day Guarantee)](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
-## Core Features: Construction Cost Tracking & Tender Management Solutions
+## What It Helps You Track: Construction Estimating Pain Points & Automated Spreadsheet Solutions
 
-Traditional spreadsheets fail because they mix quantities with pricing. This system acts as a true **bill of quantities (BOQ) pricing engine**, explicitly designed to resolve the most expensive errors in construction estimating.
+Most building quotes lose money because standard spreadsheets mix physical measurements with rough guesswork. This **bill of quantities (BOQ) and schedule of works Excel template** tracks every cost driver automatically so beginners and busy builders can price jobs accurately on the first try.
 
-| Construction Estimating Pain Point (Search Query) | Automated Solution in Costing Engine |
+| Construction Estimating Pain Point (High-Frequency Search Query) | Automated Solution in the Builders Costing Spreadsheet |
 | :--- | :--- |
-| **Contractor Markup vs. Operating Loss Tracking** | Separates direct trade costs, site preliminaries, statutory overhead, and contingency from contractor markup so bidding margins never collapse into operating losses. |
-| **Subcontractor Pricing & Rate Variance Analysis** | Evaluates how swapping trade partners (e.g., local Hertfordshire builders vs. regional subcontractors) instantly changes baseline project profitability on the exact same physical BOQ. |
-| **Direct Cost Breakdown (Labour & Materials)** | Provides exact line-item splits across Labour, Materials, Specialist Subcontractors, and Plant Hire for every structural and architectural stage. |
-| **Material Waste Calculation for Construction** | Dynamically calculates purchase volume escalations at the item level (e.g., facing brick cutting waste) rather than masking them with uniform rule-of-thumb allowances. |
-| **Client-Facing Pricing vs. Internal Margins** | Automatically generates a desensitized client tender schedule that absorbs overhead and preliminaries smoothly into blended item unit prices without exposing trade subcontractor costs or target gross margins. |
-| **Tender Integrity & BOQ Reconciliation** | Delivers real-time validation confirming zero unregistered item codes, missing trade rates, or formula disconnections, ensuring strict balance between internal cost models and client totals within £0.01 tolerance. |
+| **Builder Markup vs. Profit Margin Calculator** | Separates direct trade costs, site preliminaries, business overhead, and risk contingency from your profit target so a quoted markup never turns into a cash-flow loss on site. |
+| **Subcontractor Quote Comparison & Rate Swapping** | Compares how switching trade teams (for example, local bricklayers vs. regional groundworks subcontractors) changes total job cost and net profit on the exact same drawing measurements. |
+| **Labour, Materials, Plant Hire & Subcontractor Breakdown** | Tracks exact pounds-and-pence splits across Labour, Building Materials, Specialist Subcontractors, and Plant/Tool Hire for every stage of domestic construction. |
+| **Brickwork, Timber & Roof Tile Waste Calculator** | Calculates extra purchase quantities at the item level for cutting waste and site breakage (such as 10% on facing bricks or 7% on structural timber) before pricing your materials list. |
+| **Site Preliminaries & Overhead Cost Recovery** | Captures skip hire, scaffolding, portable toilets, Heras fencing, and site management costs, then spreads them across work items so clients cannot haggle away your operating budget. |
+| **Client Building Quote Generator vs. Hidden Trade Costs** | Produces a clean, homeowner-ready quotation schedule that hides your internal subcontractor day rates, material allowances, and profit percentages while matching your internal total to £0.01. |
+| **Error-Proof BOQ Reconciliation & Missing Price Alerts** | Flags unpriced takeoff codes, zero-value trade rates, or total mismatches automatically so you never send out an underpriced building tender. |
 
 ---
 
-## Quick Start Tutorial: Build Your First Construction Tender
+## Quick Start Tutorial: How to Price a Building Job & Generate a Client Quote in 1 Minute
 
-Follow this workflow to generate accurate estimates and client-ready quotations using our built-in commercial costing features.
+You do not need quantity surveying training or Excel skills to run a professional construction cost analysis. Follow these 4 steps to price a house extension, loft conversion, or full refurbishment:
 
-1. **Set Key Parameters (Project Setup)**: Open `01_Setup` to configure project metadata. Utilize the **dynamic contractor dropdown** to select your active bidding partner, establish currency display (£), and confirm global targets for the **Preliminaries mode**, Overhead & Profit (OHP %), Contingency %, and statutory VAT.
-2. **Input Physical Quantities (Takeoff Import)**: Open `04_Project_Estimate` and enter architectural drawing takeoff codes (`Takeoff_Item_Code`) alongside physical measured quantities (`Measured_Quantity`). The engine instantly matches **trade pricing matrices** from the central library without manual formula dragging.
-3. **Capture Site Logistics & Allowances**: Enter non-standard site commitments (e.g., scaffolding duration, waste skip hire, welfare setups) and client provisional sums (e.g., kitchen packages, sanitaryware allowances) in the `05_Adjustments` **site prelims calculator**.
-4. **Inspect Decision Views & Export**: Review internal margin hurdles and breakeven floors in `06_Internal_Estimate`, verify zero red-flag audits in `08_Checks`, and export the desensitized, client-ready quotation schedule from `07_Customer_Estimate` straight to PDF. 
+1. **Select Your Trade Rates & Target Profit Margin (`01_Setup`)**: Open the setup tab and pick your active trade pricing profile from the dropdown menu. Enter your target **Overhead & Profit (OHP %)**, **Contingency %**, **Preliminaries recovery mode**, and **UK VAT rate**.
+2. **Copy and Paste Your Building Quantities (`04_Project_Estimate`)**: Paste your item codes (`Takeoff_Item_Code`) and drawing measurements (`Measured_Quantity`) straight into the sheet. The pre-built calculation engine matches every item to its labour, material, plant, and waste rates automatically.
+3. **Add Site Preliminaries & Client Provisional Sums (`05_Adjustments`)**: Type in project-specific site setup costs (scaffolding weeks, muck-away skips, temporary welfare) and homeowner allowances (kitchen units, bathroom sanitaryware, bifold doors).
+4. **Review Your 1-Minute Profit Summary & Export the Client Quote (`06` to `08`)**: Check your true breakeven floor and net cash profit in `06_Internal_Estimate`, confirm green audit lights in `08_Checks`, and print the homeowner-ready quote from `07_Customer_Estimate` straight to PDF.
 
-> **Ready to scale your quoting process?** After trying the browser version, [📥 Download the reusable Excel estimating template for unlimited tenders and lifetime offline access](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README).
+### Why Busy Builders Switch from the Web Demo to the Reusable Excel Template
+
+Construction cost accounting is complex behind the scenes, but **this Excel workbook already has every lookup rule, waste multiplier, and dynamic spill formula pre-built and locked in place**. 
+
+You never have to write a formula, fix a broken `VLOOKUP`, or even double-click the corner of a cell to drag formulas down a column. Download the file to your desktop, **copy and paste your own job measurements**, and get a complete commercial breakdown in one click:
+- **1 Minute to Professional Cost Analysis**: Go from raw architectural drawing numbers to a fully audited tender without hiring a freelance estimator.
+- **1 Minute to Pinpoint Decision Priorities**: Spot immediately which trade packages or material waste factors eat into your margin before you sign a fixed-price contract.
+- **Built for Peak Building Season**: Spend your evenings resting or winning new clients instead of wrestling with broken spreadsheets. After testing a single job in the browser app, use the desktop Excel file to save, duplicate, and reuse your rate library across unlimited tenders.
+
+> [📥 Get the Reusable UK Construction Estimating Excel Workbook — Paste Your Data for 1-Minute Automated Job Costing](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
-## Why I Built This Costing Software
+## Construction Estimating Spreadsheet Comparison: Manual Excel Quotes vs. Automated BOQ Costing Engine
 
-Most domestic and mid-market residential estimates (£100k–£500k) fail long before ground is broken. They fail because small-to-medium builders and project managers rely on monolithic **construction estimating spreadsheets** where trade pricing, site logistics, material waste, and physical quantities are welded into a single cell. When a principal contractor receives updated subcontractor rates or needs to submit a tender using an alternative framing crew, the entire BOQ must be rebuilt by hand.
-
-In a recent £260,000 double-storey extension estimate, the lead builder applied a customary 15% flat markup to a composite square-meter brickwork rate. However, the site had restricted rear alley access requiring small-plant haulage, and bespoke facing bricks carried a 10% cutting waste factor instead of the standard 5%. Because the rate was a hardcoded composite number, the extra £4,200 in brick overage and £3,800 in extended plant hire were never attributed to the job base. The bid looked competitive, but upon completion, the contractor achieved a 3.4% net margin instead of the targeted 16% — completely eliminating operating cash flow.
-
-I built this **construction estimating engine** to eliminate that failure mode forever. Instead of treating an estimate as a static arithmetic canvas, this tool productizes commercial cost engineering: separating the immutable physical geometry of a building from volatile trade labor rates, isolating site preliminaries, and dynamically cascading commercial markups across customer deliverables.
-
----
-
-## Common Residential Estimating Problems This Tool Solves
-
-| Estimating & Costing Problem | Traditional Spreadsheet Limitations | Automated Costing Engine Solution |
+| Construction Quoting & Job Costing Task | Standard Blank Excel Spreadsheets & Manual Quotes | Automated UK Residential Costing Excel Template |
 | :--- | :--- | :--- |
-| **Coupled Quantities and Labor Pricing** | Re-quoting a tender with a new subcontractor requires re-entering project dimensions and copying formulas across dozens of BOQ rows. | Physical takeoff quantities remain untouched; switching the contractor dropdown in `01_Setup` re-indexes all labour, plant, and material rates in under one second. |
-| **Silent Material Waste Underestimation** | Flat percentage allowances applied to overall sums fail to cover cutting waste on high-value masonry, tiles, and structural timber. | Item-specific tiered logic applies dedicated waste parameters to procurement quantities before pricing occurs, ensuring accurate **takeoff estimates**. |
-| **Preliminary Cost Concession Leakage** | Scaffolding, skip hire, and project management are listed as transparent lump sums, which clients routinely negotiate away during contract review. | Preliminaries and business overheads are mathematically absorbed into blended client item rates, ensuring overhead recovery is protected inside binding unit rates. |
-| **Formula Drift & Broken References** | Adding unexpected structural items requires manual row insertion and formula dragging, frequently leaving rows excluded from totals. | Modern single-point dynamic spill arrays automatically ingest new lines and push sums across all analytical worksheets for bulletproof **job costing**. |
-| **Client Exposure of Commercial Bottom-Lines** | Estimators spend hours manually sanitizing internal calculation spreadsheets into client quotes, risking accidental disclosure of trade margins. | A completely decoupled client-facing sheet reads from the central engine, displaying clean work sections while completely hiding internal trade rates and profit margins. |
+| **Updating Subcontractor Rates Across a Tender** | Requires typing new labour and material prices into dozens of rows by hand and re-checking every `SUM` formula. | Switch the contractor dropdown in `01_Setup` to re-price all groundwork, brickwork, carpentry, and M&E rows in under 1 second. |
+| **Calculating Material Cutting & Breakage Waste** | Applies a single rough percentage at the bottom of the quote, underfunding high-waste items like facing bricks, porcelain tiles, and C24 timber joists. | Applies item-specific waste multipliers to raw measurements before multiplying by supplier unit prices. |
+| **Protecting Scaffolding, Skip Hire & Prelims** | Lists scaffolding, skips, and site supervision as separate lines at the bottom, inviting homeowners to cross them out during price negotiations. | Mathematically absorbs site preliminaries and overhead into billable trade unit rates so every square meter built covers your site running costs. |
+| **Adding New Schedule of Works Items** | Inserting rows mid-sheet often breaks cell references or leaves new items outside the final total range. | Uses modern Microsoft 365 / Excel 2021+ dynamic array formulas that expand automatically the moment you paste new lines. |
+| **Creating a Homeowner-Ready Quote Schedule** | Takes hours of deleting internal margin columns via "Save As", risking accidental leaks of your cost base to the client. | Generates a separate, client-safe quotation tab automatically while keeping your trade rates and profit targets strictly private. |
 
 ---
 
-## Target Users & Specific Estimating Scenarios
+## Who This Is For: Construction Estimating Templates by Role & Trade
 
-This template acts as a lightweight ERP for construction professionals handling residential contracts. 
+This tool is built for people who need reliable building numbers right now without spending weeks learning complex enterprise estimating software:
 
-- **Residential Builders & Main Contractors (£100k–£500k)**: General builders using this **estimating software for home extensions**, full-home refurbishments, and **loft conversion costing templates** to secure defensible internal margins before signing fixed-price JCT contracts.
-- **Quantity Surveyors & Estimating Consultants**: Professionals managing multiple subcontractor rate files who need a scalable **BOQ pricing template** and repeatable **tender schedule Excel workbook** without maintaining fragile, complex enterprise infrastructure.
-- **Property Developers & Self-Builders**: Operators seeking a transparent **house building cost calculator** and a bottom-up benchmark tool to cross-examine contractor tender packages and identify loaded trade items.
+- **Small & Domestic Builders (`Builders Quote Template UK` & `Job Costing Spreadsheet`)**: Hands-on builders pricing £50k–£500k residential jobs who need a fast, repeatable **building quote template** to lock in net profit before signing JCT homeowner contracts.
+- **Home Extension & Loft Conversion Contractors (`House Extension Cost Calculator` & `Renovation Pricing Sheet`)**: Trade contractors quoting single-storey rear extensions, double-storey wrap-arounds, dormer loft conversions, and garage conversions who want instant **labour and material cost breakdowns**.
+- **First-Time Estimators & Trade Subcontractors Moving into Main Contracting (`Beginner Construction Estimating Spreadsheet`)**: Bricklayers, carpenters, and builders pricing their first full turnkey projects who need a structured **schedule of works checklist** so no hidden site costs are forgotten.
+- **Freelance Estimators & Junior Quantity Surveyors (`BOQ Excel Template` & `Tender Schedule Workbook`)**: Estimating professionals managing multiple regional subcontractor rate cards who want a clean, zero-maintenance **bill of quantities pricing workbook**.
+- **Self-Builders, Property Flippers & Homeowners (`House Building Cost Calculator` & `Refurbishment Budget Tracker`)**: Project owners who want a bottom-up **construction budget spreadsheet** to sense-check builder quotes and spot missing provisional sums before work starts on site.
 
-*Not designed for*: Commercial high-rise civil engineering projects requiring full SMM7/NRM2 consultant bills of quantities, enterprise multi-user ERP accounting, or direct automated CAD/BIM polygon extraction.
-
-No spreadsheet expertise needed. Open the free browser app and start estimating immediately. Need the robust desktop version? [Buy the Professional Excel Estimating Template with a 30-day money-back guarantee](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README).
+*Scope Note*: Purpose-built for UK domestic construction, extensions, refurbishments, and new-build homes. Not intended for multi-million-pound civil engineering highways contracts, multi-user cloud accounting ERPs, or 3D BIM model polygon takeoff.
 
 ---
 
-## About The Developer
+## Real-World Building Scenarios: How Beginners & Busy Contractors Price Jobs Without Estimating Experience
 
-I build productized decision-support tools and lightweight operational models for environments where there are simply too many moving parts to manage by intuition. In residential construction, single-point estimating oversights compound into structural cash-flow failures. My work focuses on answering one fundamental question: *"What information do I need in one clear place to make the next commercial decision with absolute confidence?"* The **UK Residential Construction Estimating Engine** is an exact realization of this approach.
+Search engines and industry forums are full of builders asking how to price domestic jobs quickly without underquoting. Here is how this template solves the three most common estimating scenarios through simple copy-and-paste actions:
+
+### Scenario 1: Pricing a Rear House Extension or Loft Conversion in Under 15 Minutes
+Instead of staring at a blank screen on Sunday night, paste your measured square meters of foundations, cavity walling, flat warm roof, and plasterboarding into `04_Project_Estimate`. The workbook pulls matching labour, material, and plant rates automatically, adds item-level cutting waste, and produces both your internal cost sheet and the homeowner's PDF quote.
+
+### Scenario 2: Comparing Two Subcontractor Quotes Before Submitting a Tender
+When your usual groundworks or roofing crew is fully booked, you often have to bring in a slightly more expensive subcontractor. Rather than re-typing the whole estimate, switch the active contractor profile in `01_Setup`. You see immediately how the new crew's rates change your total tender price and net profit margin, allowing you to adjust your quote before sending it to the client.
+
+### Scenario 3: Checking If a Fixed-Price Job Is Actually Worth Taking
+Before committing your team to a 16-week refurbishment during peak season, paste the job quantities into the workbook and check `06_Internal_Estimate`. The sheet shows your exact breakeven floor in pounds (£), how much cash goes to subcontractors versus materials, and how much clear profit remains after covering site preliminaries and contingency.
+
+---
+
+## Why I Built This Construction Costing Engine
+
+Most domestic building estimates between £100,000 and £500,000 lose money before the first digger arrives on site. That happens because small builders are forced to choose between bloated enterprise software that takes months to learn and fragile DIY spreadsheets where measurements, waste, and trade prices are typed into the same cell.
+
+On a recent £260,000 double-storey extension, a builder added a flat 15% markup to an all-in square-meter brickwork rate. However, narrow rear access required small-dumper hire, and the chosen facing bricks had a 10% cutting waste rate instead of the standard 5%. Because the builder used a single combined rate, £4,200 in extra brick wastage and £3,800 in extra plant hire were never billed to the job. The quote won the work, but after 5 months on site, the builder walked away with a 3.4% net return instead of the planned 16%, wiping out his working cash flow.
+
+I built this **UK residential construction estimating workbook** so any builder or beginner can prevent that mistake in 60 seconds. By keeping physical building measurements separate from trade price lists, calculating waste per material, and folding site preliminaries into client unit rates automatically, the spreadsheet does the commercial heavy lifting for you.
+
+---
+
+## The Business Logic & Methodology: How This Spreadsheet Protects Your Profit Margins (In Plain English)
+
+You do not need an accounting degree to run a profitable building company, because the commercial rules are already built into the cells. Behind the simple copy-and-paste workflow, the spreadsheet protects your bank balance by fixing three hidden financial blind spots that catch out most domestic builders:
+
+### 1. Separating Building Measurements from Trade Prices (Fixing the Markup vs. Margin Trap)
+- **The Objective Fact**: Adding a 20% markup to £100,000 of building costs only gives you a 16.67% profit margin (£20,000 profit divided by a £120,000 price). Worse still, if you type a single combined price per square meter into a spreadsheet, you have no idea how much of that money is eaten up by materials, labour, tool hire, or subcontractor fees when supplier prices rise.
+- **How the Tool Protects You**: The workbook splits every building task into four clear buckets: **Labour, Materials, Subcontractors, and Plant Hire**. Your physical measurements stay fixed in one column while prices pull automatically from a lookup table. When timber or brick prices jump, you update the rate table once and every quote updates instantly without touching a single formula.
+
+### 2. Automatic Item-by-Item Material Waste Multipliers (Stopping Silent Cash Leaks)
+- **The Objective Fact**: If an architectural drawing shows 100 square meters of brickwork or roof tiling, you cannot buy 100 square meters of materials. Cuts around windows, broken bricks in pallets, and timber offcuts mean you actually have to buy 105 to 115 square meters. On a £200,000 project, forgetting to bill for cutting waste forces the builder to pay £3,000 to £6,000 for extra materials out of their own take-home pay.
+- **How the Tool Protects You**: Every item code in the template has its own built-in waste percentage. When you paste in 100 square meters of drawing measurement, the spreadsheet automatically prices the full purchase volume required on site so the client pays for the real material usage.
+
+### 3. Proportional Overhead & Preliminaries Absorption (Preventing Client Price Haggling)
+- **The Objective Fact**: Homeowners want to pay for visible results like walls, roofs, and kitchens; they hate paying for skips, scaffolding, portable toilets, site insurance, and your time managing the build. If you list £12,000 of site preliminaries and £25,000 of builder's profit as separate lines at the bottom of a quote, clients routinely try to haggle those lines down or offer to "order their own skips" to cut your price.
+- **How the Tool Protects You**: The customer quote tab (`07_Customer_Estimate`) automatically spreads your site preliminaries, risk contingency, and profit target evenly across the visible building tasks (groundworks, brickwork, roofing, plastering). The homeowner sees a clean, itemized price list that adds up to your exact target down to the last penny (£0.01), while your overhead recovery and profit margins remain completely invisible and protected from negotiation.
+
+---
+
+## About The Developer & More Plug-and-Play Business Templates
+
+I design practical, plug-and-play business decision tools and automated Excel templates for operators who want clear commercial answers without complex software setup or manual formula maintenance. Every template is built around a single goal: **paste your raw numbers and get decision-ready financial clarity in 1 minute.**
+
+- [📥 **Download the UK Residential Construction Estimating & Job Costing Excel Template (Includes 30-Day Money-Back Guarantee)**](https://theseusworkshop.com/l/arnghy?utm_source=github&utm_medium=GitHub%20README)
+- [🌐 **Try the Free Browser-Based UK Construction Costing Calculator First**](https://hyvoid.github.io/uk-residential-costing-software/)
+- [🛠️ **Browse All Plug-and-Play Excel Costing Engines, Cash Flow Dashboards & Estimating Toolkits at Theseus Workshop (theseusworkshop.com)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
@@ -362,19 +408,6 @@ $$\begin{aligned}
 
 ---
 
-
-## The Business Logic & Methodology
-
-This system relies on **three-tier unit economics decomposition** paired with a **proportional absorption costing model**. Traditional construction estimation relies on gross historical unit rates (e.g., £2,200 per square meter of gross internal area), which conceals trade-level variances, site topography constraints, and market supply disruptions.
-
-To solve this, the engine enforces strict decoupling:
-1. **Physical Quantity Layer**: Captures actual geometric takeoff with dedicated material waste factors.
-2. **Resource Pricing Matrix**: Decomposes every standard construction task into its four fundamental commercial components (Labour, Material, Subcontract, Plant), dynamically linked to named trade contractors.
-3. **Dual-Margin Waterfall**: Distinguishes direct production costs from site-specific preliminaries to establish a **Prime Cost Baseline**. Commercial overheads, profit margins, and project contingencies are subsequently applied to this consolidated baseline, establishing an unbreachable breakeven floor.
-
-To prevent client-side margin erosion during commercial tender negotiations, the customer-facing schedule employs **proportional absorption**. Rather than presenting preliminaries, contractor margin, and risk reserves as standalone discretionary sums, the engine mathematically allocates these burdens across billable physical items. The resulting client schedule aligns to the exact penny of the internal commercial appraisal while keeping sensitive trade margins fully protected.
-
----
 
 ## Other Tools in This Series
 
